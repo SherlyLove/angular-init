@@ -1,0 +1,11 @@
+a {
+  color: whitesmoke;
+}
+
+a:hover {
+  color: rgb(132, 132, 204);
+}
+
+.max-height {
+  height: 86vh;
+}
